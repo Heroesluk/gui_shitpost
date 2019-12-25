@@ -1,2 +1,0 @@
-print('again')
-print('smakuwa')
